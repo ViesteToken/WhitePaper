@@ -1,4 +1,5 @@
 # WhitePaper ViesteToken
+![image](https://github.com/ViesteToken/WhitePaper/assets/109048462/d00ed0b9-9abc-433a-8766-502509ae6055)
 
 https://irp.cdn-website.com/91b6d645/dms3rep/multi/logo+32x32.png
 
